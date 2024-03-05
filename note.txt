@@ -1,1 +1,2 @@
 THis is a sample note file
+This text is written in the branch "updated-note"
